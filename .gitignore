@@ -1,0 +1,7 @@
+*.sublime-workspace
+structure.css
+/assets
+/build
+/sublime
+/node_modules
+/src/img
